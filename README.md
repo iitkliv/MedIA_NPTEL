@@ -3,7 +3,7 @@ This repository contains the tutorials for the Medical Image Analysis NPTEL MOOC
 
 ### Dependencies
 1. [MATLAB](https://in.mathworks.com/products/matlab.html).
-2. PyTorhc - Go to the PyTorch [website](http://pytorch.org/), choose the OS, package manager, language (Python) and CUDA version(if NVIDIA GPU is available and CUDA is installed) and run the given command to install PyTorch.
+2. PyTorch - Go to the PyTorch [website](http://pytorch.org/), choose the OS, package manager, language (Python) and CUDA version(if NVIDIA GPU is available and CUDA is installed) and run the given command to install PyTorch.
 
 ### Organisation
 #### Tutorial 1: Lecture 12 - Random Forests for Segmentation and Classification  
