@@ -20,5 +20,5 @@ This repository contains the tutorials for the Medical Image Analysis NPTEL MOOC
    3. In the same folder download and place all the 3 files from /MedIA_NPTEL/Neural_Networks_Demo/ folder.
    4. Run the dataGenForTorch.m for generating the train,validation and test data matrices.
    5. Run the nn_demo.m for training the neural network on matlab and view the results in a GUI interface.
-   6. Run the jupyter notebook nptel_media_nn.ipynb for training the neural network constructed in PyTorch framework in python.
+   6. Run the jupyter notebook nptel_media_nn.ipynb for training a neural network using PyTorch framework.
 
