@@ -1,4 +1,4 @@
-# MedIA_NPTEL
+# Medical Image Analysis on NPTEL 
 This repository contains the tutorials for the Medical Image Analysis NPTEL MOOC
 
 ### Dependencies
